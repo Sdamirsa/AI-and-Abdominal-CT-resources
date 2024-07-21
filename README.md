@@ -3,15 +3,24 @@ Resources for people working on Artificial Intelligence (AI) and Machine Learnin
 
 # [Free Course to understand Abdominal CT from basics to advanced](https://pancanaid.com/education)
 
-# Datasets and Descriptions 
+# Abdominal CT scan Datasets and Descriptions 
+https://www.medicaldata.cloud/data-sets/abdominal-ct-dataset/
+https://arxiv.org/abs/2111.02403
+https://vindr.ai/datasets/abdomen-phases
+https://github.com/JunMa11/AbdomenCT-1K
+https://paperswithcode.com/dataset/lits17
+https://www.kaggle.com/datasets/kmader/siim-medical-images
+https://www.shaip.com/offerings/ct-scan-images-datasets/
 
 # AI Task (Papers ± Github Repo)
 
-## Segmentation of Normal Objects, including Organs
+## General Segmentation
+https://microsoft.github.io/BiomedParse/
 
-## Detection and Classification
 
 ## Segmentation of Abnormalities
+
+## Detection and Classification
 
 ## Vision Language Models
 
