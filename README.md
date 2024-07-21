@@ -3,9 +3,21 @@ Resources for people working on Artificial Intelligence (AI) and Machine Learnin
 
 # Datasets and Descriptions 
 
-# AI Task Papers (± Github Repo)
+# AI Task (Papers ± Github Repo)
 
+## Segmentation of Normal Objects, including Organs
 
+## Detection and Classification
+
+## Segmentation of Abnormalities
+
+## Vision Language Models
+
+## Anomaly Detection
+
+## Contrast Enhancment
+
+## Image Synthesis 
 
 # Connections
 ## People
