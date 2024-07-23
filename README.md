@@ -11,6 +11,7 @@ https://github.com/JunMa11/AbdomenCT-1K
 https://paperswithcode.com/dataset/lits17
 https://www.kaggle.com/datasets/kmader/siim-medical-images
 https://www.shaip.com/offerings/ct-scan-images-datasets/
+https://www.medseg.ai/database
 
 # AI Task (Papers ± Github Repo)
 
