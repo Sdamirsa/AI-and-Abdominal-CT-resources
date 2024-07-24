@@ -35,3 +35,6 @@ https://microsoft.github.io/BiomedParse/
 ## People
 
 ## Centers
+
+# Segmentation Tool
+https://foobar167.medium.com/open-source-free-software-for-image-segmentation-and-labeling-4b0332049878
