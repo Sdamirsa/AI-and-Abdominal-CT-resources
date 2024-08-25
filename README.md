@@ -12,12 +12,13 @@ https://paperswithcode.com/dataset/lits17
 https://www.kaggle.com/datasets/kmader/siim-medical-images
 https://www.shaip.com/offerings/ct-scan-images-datasets/
 https://www.medseg.ai/database
+https://github.com/zhaoziheng/SAT-DS
 
 # AI Task (Papers ± Github Repo)
 
 ## General Segmentation
 https://microsoft.github.io/BiomedParse/
-
+https://github.com/zhaoziheng/SAT
 
 ## Segmentation of Abnormalities
 
